@@ -91,7 +91,7 @@ export default function Nftdetails() {
                                 </div>
                             </div>
                         </div>
-                    </div>) : <h1>loading .......</h1>
+                    </div>) : <h1>loading ......</h1>
             }
         </>
 
